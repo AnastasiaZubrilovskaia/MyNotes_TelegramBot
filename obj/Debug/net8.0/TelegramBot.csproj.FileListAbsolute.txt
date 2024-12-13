@@ -1,0 +1,17 @@
+D:\ООП\TelegramBot\bin\Debug\net8.0\TelegramBot.exe
+D:\ООП\TelegramBot\bin\Debug\net8.0\TelegramBot.deps.json
+D:\ООП\TelegramBot\bin\Debug\net8.0\TelegramBot.runtimeconfig.json
+D:\ООП\TelegramBot\bin\Debug\net8.0\TelegramBot.dll
+D:\ООП\TelegramBot\bin\Debug\net8.0\TelegramBot.pdb
+D:\ООП\TelegramBot\obj\Debug\net8.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\TelegramBot\obj\Debug\net8.0\TelegramBot.AssemblyInfoInputs.cache
+D:\ООП\TelegramBot\obj\Debug\net8.0\TelegramBot.AssemblyInfo.cs
+D:\ООП\TelegramBot\obj\Debug\net8.0\TelegramBot.csproj.CoreCompileInputs.cache
+D:\ООП\TelegramBot\obj\Debug\net8.0\TelegramBot.dll
+D:\ООП\TelegramBot\obj\Debug\net8.0\refint\TelegramBot.dll
+D:\ООП\TelegramBot\obj\Debug\net8.0\TelegramBot.pdb
+D:\ООП\TelegramBot\obj\Debug\net8.0\TelegramBot.genruntimeconfig.cache
+D:\ООП\TelegramBot\obj\Debug\net8.0\ref\TelegramBot.dll
+D:\ООП\TelegramBot\bin\Debug\net8.0\Telegram.Bot.dll
+D:\ООП\TelegramBot\obj\Debug\net8.0\TelegramBot.csproj.AssemblyReference.cache
+D:\ООП\TelegramBot\obj\Debug\net8.0\Telegram.C5E56D06.Up2Date
